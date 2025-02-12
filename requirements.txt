@@ -1,0 +1,13 @@
+#Automobile Sales Statistics Dashboard
+#This project is a Dash-based web application for visualizing automobile sales statistics.
+#It provides insights into yearly and recession period statistics using interactive charts and graphs.
+
+
+#these are the required libraries to run the project
+dash==2.11.1
+dash-core-components==2.0.0
+dash-html-components==2.0.0
+dash-bootstrap-components==1.4.2
+pandas==1.5.3
+plotly==5.17.0
+more-itertools==10.1.0
