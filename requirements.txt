@@ -2,12 +2,13 @@
 #This project is a Dash-based web application for visualizing automobile sales statistics.
 #It provides insights into yearly and recession period statistics using interactive charts and graphs.
 
-
+#you can run the command #pip install -r requirements.txt #in the terminal to install all the requirements
 #these are the required libraries to run the project
-dash==2.11.1
-dash-core-components==2.0.0
-dash-html-components==2.0.0
-dash-bootstrap-components==1.4.2
-pandas==1.5.3
-plotly==5.17.0
-more-itertools==10.1.0
+
+dash
+dash-core-components
+dash-html-components
+dash-bootstrap-components
+pandas
+plotly
+more-itertools
